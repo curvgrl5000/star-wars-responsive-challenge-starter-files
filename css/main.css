@@ -1,0 +1,39 @@
+header {
+	position: relative;
+	background-color: #eebb44;
+	height: auto;
+	padding: 10px 0px;
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+h1 {
+	color: grey;
+	line-height: .625em;
+	font-size: 2em
+}
+
+header p {
+	font-size: 1em;
+}
+
+.container {
+	margin: 0 auto;
+	position: relative;
+}
+
+.cards {
+	margin-bottom: 20px;
+	border: 1px solid #ddd;
+	padding: 0px 0px 10px 0px;
+}
+
+.characters {
+    background-size: contain;
+    height: auto;
+    width: 100%;
+}
+
+p.char, h3 {
+	padding-left: 20px
+}
